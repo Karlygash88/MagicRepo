@@ -1,0 +1,2 @@
+Hello We have just created folder and
+make it as a repo
